@@ -117,3 +117,15 @@ Displays profile icon, connection status, and sign-out option
 
 - This application is intended for educational and academic use.
 - Ensure both server and client are running simultaneously.
+
+---
+
+## 👨‍💻 Author
+
+**Muhammad Hamza Zeeshan**  
+BSCS – University of Karachi  
+📧 hamzazeeshan675@gmail.com
+
+---
+
+⭐ *Star this repo if you found it helpful or want to contribute!*
