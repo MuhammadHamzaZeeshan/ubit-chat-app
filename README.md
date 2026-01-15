@@ -119,7 +119,7 @@ Displays profile icon, connection status, and sign-out option
 - Ensure both server and client are running simultaneously.
 
 
-## 👨‍💻 Author
+## Author
 
 **Muhammad Hamza Zeeshan**  
 BSCS – University of Karachi  
