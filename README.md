@@ -1,4 +1,4 @@
-# DCN Secure Chat Application
+# UBIT Secure Chat Application
 
 A real-time, end-to-end encrypted chat application designed for secure one-on-one communication. The system uses AES-256 encryption, message compression for bandwidth efficiency, and automatic reconnection to ensure reliability.
 
